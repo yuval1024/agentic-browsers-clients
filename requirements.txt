@@ -1,0 +1,20 @@
+# Browserbase Python SDK
+browserbase>=0.3.0
+
+# Hyperbrowser Python SDK
+hyperbrowser>=0.1.0
+
+# Steel Python SDK
+steel-sdk>=0.1.0
+
+# Skyvern Python SDK
+skyvern>=0.1.0
+
+# Selenium for browser automation
+selenium>=4.15.0
+
+# Playwright for browser automation (used by Steel)
+playwright>=1.48.0
+
+# Python dotenv for environment variable management
+python-dotenv>=1.0.0
